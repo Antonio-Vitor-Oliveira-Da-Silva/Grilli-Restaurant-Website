@@ -1,0 +1,443 @@
+Grilli - Comida incrível & deliciosa
+
+This is a Restaurant html template made by Antony Vitor
+
+
+
+#---------- TOP BAR ----------#
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+Rua Gernaldo Gomez Silva, 1260, Brasil
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+Daily : 8.00 am to 10.00 pm
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
++55 85 98524-4438
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+grillirestaurant@gmail.com
+
+
+
+#---------- HEADER ----------#
+
+alt = Grilli - Home
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+Menu
+Sobre Nós
+Nossos Chefes
+Contato
+
+Visite-Nós
+
+Rua Gernaldo Gomez Silva, 1260, Brasil
+
+Open: 9.30 am - 2.30pm
+
+grillirestaurant@gmail.com
+
+Pedido de reserva
++55 85 98524-4438
+
+Reserve uma mesa
+
+aria-label = open menu
+
+
+
+#---------- HERO ----------#
+
+Tradição & Higiene
+
+Pelo amor de
+comida deliciosa
+
+Venha com a família e sinta a alegria de uma comida de dar água na boca.
+
+Veja Nosso Cardápio
+
+Experiência Deliciosa
+
+Sabores inspirados em
+As estações
+
+incrível & deliciosa
+
+Onde cada sabor
+Conta Uma História
+
+aria-label = slide to previous
+<ion-icon name="chevron-back"></ion-icon>
+
+aria-label = slide to next
+<ion-icon name="chevron-forward"></ion-icon>
+
+alt = booking icon
+
+Reserve uma mesa
+
+
+
+#---------- SERVICE ----------#
+
+Sabores para realeza
+
+Oferecemos alto nível
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industrys standard dummy text ever.
+
+alt = Breakfast
+
+Café da manhã
+View Menu
+
+Aperitivos
+
+Drinks
+
+alt = shape
+
+
+
+#---------- ABOUT ----------#
+
+Nossa História
+
+Cada sabor conta uma história
+
+Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries, but also the leap into.
+
+Reserve por chamada
+
++55 (85) 98524-4438
+
+Consultar informação
+
+alt = about banner
+
+
+
+#---------- SPECIAL DISH ----------#
+
+alt = special dish
+
+alt = badge
+
+Prato Especial
+
+Tortellini de Lagosta
+
+Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type.
+
+R$40.00
+R$20.00
+
+Ver todo o menu
+
+
+
+#---------- MANU ----------#
+
+Seleção Especial
+
+Menu Delicioso
+
+1.
+alt = Greek Salad
+Salada Grega
+
+Sazonal
+R$25.50
+Tomate, pimentão verde, pepino fatiado, cebola, azeitona & queijo feta.
+
+2.
+alt = Lasagne
+Lasanha
+
+R$40.00
+Legumes, queijo, carne moída, molho de tomate, temperos & especiarias.
+
+3.
+alt = Butternut Pumpkin
+Abóbora
+
+$10.00
+Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand.
+
+4.
+alt = Tokusen Wagyu
+Tokusen Wagyu
+
+New
+R$39.00
+Legumes, queijos, carnes moídas, molho de tomate, temperos & especiarias.
+
+5.
+alt = Olivas Rellenas
+Olivas Rellenas
+
+R$25.00
+Abacate com carne de siri, cebola roxa, salada de siri recheada com pimentão vermelho & pimentão verde.
+
+6.
+alt = Opu Fish
+Peixe Opu
+
+$49.99
+Legumes, queijos, carnes moídas, molho de tomate, temperos & especiarias.
+
+Durante o inverno diariamente a partir de 7:00 pm to 9:00 pm
+
+Ver todo Menu
+
+
+
+#---------- TESTIMONIALS ----------#
+
+”
+Queria agradecer por me convidar para aquele jantar incrível naquela noite. A comida estava extraordinário.
+alt = Sam Jhonson
+James Jhonson
+
+
+
+#---------- RESERVATION ----------#
+
+Reserva Online
+
+Pedido de reserva
++55 85 98524-4438
+or fill out the order form
+
+placeholder = Nome Completo
+placeholder = Telefone
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+
+1 Pessoa
+2 Pessoas
+3 Pessoas
+4 Pessoas
+5 Pessoas
+6 Pessoas
+7 Pessoas
+8 Pessoas
+9 Pessoas
+10 Pessoas
+
+<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+
+<ion-icon name="calendar-clear-outline" aria-hidden="true"></ion-icon>
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+08 : 00 am
+<ion-icon name="chevron-down" aria-hidden="true"></ion-icon>
+
+placeholder = Messagem
+
+Reseve uma mesa
+
+Contate-Nós
+
+Pedido de Reserva
+
++55 85 98524-4438
+
+Localização
+
+Rua Gernaldo Gomez Silva,
+1260, Brasil
+
+Hora do almoço
+
+Segunda a Domingo
+11.00 am - 2.30pm
+
+Hora do jantar
+
+Segunda a Domingo
+05.00 pm - 10.00pm
+
+
+
+#---------- FEATURES ----------#
+
+Porque escolher-nos
+
+Nossa força
+
+alt = icon
+
+Alimentos Higiênicos
+Lorem Ipsum is simply dummy printing and typesetting.
+
+Ambiente Fresco
+
+Chefes Qualificados
+
+Eventos & Festas
+
+
+
+#---------- EVENT ----------#
+
+Atualizações Recentes
+
+Próximos eventos
+
+alt = Flavour so good you’ll try to eat with your eyes.
+
+15/06/2023
+Comida, Sabor
+Sabor tão bom que você vai tentar comer com os olhos.
+
+08/01/2023
+Comida saudável
+
+03/02/2024
+Receita
+
+Veja nosso blog
+
+
+
+#---------- FOOTER ----------#
+
+alt = grilli home
+
+Rua Gernaldo Gomez Silva, 1260, Brasil
+
+grillirestaurant@gmail.com
+
+Pedido de Rserva : +55 85 98524-4438
+
+Open : 09:00 am - 01:00 pm
+
+Receba notícias & ofertas exclusivas!
+
+Inscreva-se e receba 25% Off.
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+
+placeholder = Digite seu e-mail Completo
+
+Inscreva-se
+
+Home
+Menu
+Sobre Nós
+Nossos Chefes
+Contato
+
+Facebook
+Instagram
+Twitter
+
+&copy; 2024 Grilli Restaurant. Todos Direitos Reservados | Feito por
+
+https://github.com/Antonio-Vitor-Oliveira-Da-Silva
+
+Antony Vitor
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
+
+
+
+#---------- MENU PAGE ----------#
+
+
+incrível & Delicioso
+Nosso Menu
+
+Oferta Especial
+Melhor Menu Especial
+
+alt = Greek Salad
+Salada Grega
+Avocados with crab meat, red onion, crab salad red bell pepper...
+$39.00
+
+alt = Tokusen Wagyu
+Tokusen Wagyu
+Tomatoes, green bell pepper, sliced cucumber onion, olives...
+$45.00
+
+alt = Butternut Pumpkin
+Butternut Pumpkin
+Avocados with crab meat, red onion, crab salad stuffed bell pepper...
+$15.00
+
+alt = Opu Fish
+Opu Fish
+Vegetables, cheeses, ground meats, tomato sauce, seasonings...
+$12.00
+
+alt = Greek Salad
+Greek Salad
+Avocados with crab meat, red onion, crab salad red bell pepper...
+$39.00
+
+alt = Tokusen Wagyu
+Tokusen Wagyu
+Tomatoes, green bell pepper, sliced cucumber onion, olives...
+$45.00
+
+alt = Butternut Pumpkin
+Butternut Pumpkin
+Avocados with crab meat, red onion, crab salad stuffed bell pepper...
+$15.00
+
+alt = Opu Fish
+Opu Fish
+Vegetables, cheeses, ground meats, tomato sauce, seasonings...
+$12.00
+
+
+alt = feature banner
+
+Chef Selection
+Lobster Tortellini
+
+Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since.
+
+$40.00
+$20.00
+
+
+
+#---------- MENU PAGE ----------#
+
+Our Story
+About Us
+
+Who We Are
+
+A modern restaurant with a menu that will make your mouth water. Servicing delicious food 
+since 45 years.
+Enjoy our seasonal menu and experience the beauty of naturalness
+Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived.
+
+Hora do almoço
+Segunda a Domindo
+11.00 am - 2.30pm
+
+Hora do jantar
+Segunda a Domingo
+5.30 pm - 11.30 pm
+
+Contate-nos
+Rua Gernaldo Gomez Silva, 1260, Brasil
+
++55 85 98524-4438
+grillirestaurant@gmail.com
