@@ -10,8 +10,13 @@
     - primary meta tags
   -->
   <title>Grilli - Comida incrível & deliciosa</title>
-  <meta name="title" content="Grilli - Comida incrível & deliciosa">
-  <meta name="description" content="This is a Restaurant html template made by Antony Vitor">
+  <meta property="og:type" content="website" />
+    <meta property="og:title" content="Grilli - Comida Incrível & Deliciosa" />
+    <meta property="og:image" content="https://grilli-restaurant-website-zeta.vercel.app/assets/service-1.jpg" />
+    <meta property="og:description" content="Experiência Deliciosa">
+    <meta property="og:site_name" content="Grilli - Comida Incrível & Deliciosa" />
+
+    <meta name="description" content="Site, Restaurante, Pratos & Bebidas Deliciosos, Comida, Estilo, Qualidade, Cuidados profissionais, Profissionalismo, Atendimento personalizado, Experiência Deliciosa">
 
   <!-- 
     - favicon
@@ -157,14 +162,6 @@
             <a href="#" class="navbar-link hover-underline">
               <div class="separator"></div>
 
-              <span class="span">Nossos Chefes</span>
-            </a>
-          </li>
-
-          <li class="navbar-item">
-            <a href="#" class="navbar-link hover-underline">
-              <div class="separator"></div>
-
               <span class="span">Contato</span>
             </a>
           </li>
@@ -194,7 +191,7 @@
 
       </nav>
 
-      <a href="#" class="btn btn-secondary">
+      <a href="https://api.whatsapp.com/send?phone=5585985244438&text=Quero%20reservar%20uma%20mesa!" class="btn btn-secondary">
         <span class="text text-1">Encontre uma mesa</span>
 
         <span class="text text-2" aria-hidden="true">Encontre uma mesa</span>
@@ -313,7 +310,7 @@
           <ion-icon name="chevron-forward"></ion-icon>
         </button>
 
-        <a href="#" class="hero-btn has-after">
+        <a href="https://api.whatsapp.com/send?phone=5585985244438&text=Quero%20reservar%20uma%20mesa!" class="hero-btn has-after">
           <img src="./assets/images/hero-icon.png" width="48" height="48" alt="booking icon">
 
           <span class="label-2 text-center span">Reservar uma mesa</span>
@@ -337,8 +334,8 @@
           <h2 class="headline-1 section-title">Oferecemos alto nível</h2>
 
           <p class="section-text">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industrys
-            standard dummy text ever.
+            Comida deliciosa em um ambiente aconchegante você encontra no Grilli. 
+            Temos área externa e apresentação musical à noite. Venha conferir!
           </p>
 
           <ul class="grid-list">
@@ -779,7 +776,7 @@
 
           <div class="form reservation-form bg-black-10">
 
-            <form action="" class="form-left">
+            <form action="index.html" class="form-left">
 
               <h2 class="headline-1 text-center">Reserva Online</h2>
 
@@ -852,9 +849,9 @@
               <textarea name="message" placeholder="Messagem" autocomplete="off" class="input-field"></textarea>
 
               <button type="submit" class="btn btn-secondary">
-                <span class="text text-1">Reservar uma mesa</span>
+                <span class="text text-1"><a href="https://api.whatsapp.com/send?phone=5585985244438&text=Quero%20reservar%20uma%20mesa!">Reservar uma mesa</a></span>
 
-                <span class="text text-2" aria-hidden="true">Reservar uma mesa</span>
+                <span class="text text-2" aria-hidden="true"><a href="https://api.whatsapp.com/send?phone=5585985244438&text=Quero%20reservar%20uma%20mesa!">Reservar uma mesa</a></span>
               </button>
 
             </form>
@@ -923,7 +920,7 @@
 
                 <h3 class="title-2 card-title">Alimentos Higiênicos</h3>
 
-                <p class="label-1 card-text">Lorem Ipsum is simply dummy printing and typesetting.</p>
+                <p class="label-1 card-text">A educação é a higiene do espírito, assim como a higiene é uma verdadeira educação do corpo.</p>
 
               </div>
             </li>
@@ -937,7 +934,7 @@
 
                 <h3 class="title-2 card-title">Ambiente Fresco</h3>
 
-                <p class="label-1 card-text">Lorem Ipsum is simply dummy printing and typesetting.</p>
+                <p class="label-1 card-text">Preservar o ambiente é a chave para manter o equilíbrio ambiental.</p>
 
               </div>
             </li>
@@ -951,7 +948,7 @@
 
                 <h3 class="title-2 card-title">Chefes Qualificados</h3>
 
-                <p class="label-1 card-text">Lorem Ipsum is simply dummy printing and typesetting.</p>
+                <p class="label-1 card-text">O líder é aquele que sabe o que quer alcançar e consegue inspirar os outros a também desejarem.</p>
 
               </div>
             </li>
@@ -965,7 +962,7 @@
 
                 <h3 class="title-2 card-title">Eventos & Festas</h3>
 
-                <p class="label-1 card-text">Lorem Ipsum is simply dummy printing and typesetting.</p>
+                <p class="label-1 card-text">Venha conhecer nosso novo restaurante e desfrutar de pratos especiais!</p>
 
               </div>
             </li>
@@ -1127,9 +1124,9 @@
             </div>
 
             <button type="submit" class="btn btn-secondary">
-              <span class="text text-1">Inscreva-se</span>
+              <span class="text text-1"><a href="mailto:grillirestaurant@gmail.com">Inscreva-se</a></span>
 
-              <span class="text text-2" aria-hidden="true">Inscreva-se</span>
+              <span class="text text-2" aria-hidden="true"><a href="mailto:grillirestaurant@gmail.com">Inscreva-se</a></span>
             </button>
           </form>
 
@@ -1138,19 +1135,15 @@
         <ul class="footer-list">
 
           <li>
-            <a href="#" class="label-2 footer-link hover-underline">Home</a>
+            <a href="#home" class="label-2 footer-link hover-underline">Home</a>
           </li>
 
           <li>
-            <a href="#" class="label-2 footer-link hover-underline">Menu</a>
+            <a href="#menu" class="label-2 footer-link hover-underline">Menu</a>
           </li>
 
           <li>
-            <a href="#" class="label-2 footer-link hover-underline">Sobre Nós</a>
-          </li>
-
-          <li>
-            <a href="#" class="label-2 footer-link hover-underline">Nossos Chefes</a>
+            <a href="#about" class="label-2 footer-link hover-underline">Sobre Nós</a>
           </li>
 
           <li>
@@ -1181,7 +1174,7 @@
 
         <p class="copyright">
           &copy; 2024 Grilli Restaurant. Todos Direitos Reservados | Feito por <a href="https://github.com/Antonio-Vitor-Oliveira-Da-Silva"
-            target="_blank" class="link">Antony Vitor</a>
+            target="_blank" class="link">Antonio Vitor</a>
         </p>
 
       </div>
